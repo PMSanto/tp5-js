@@ -65,7 +65,7 @@ class Persona {
     alert(mensaje);
   }
 
-// no me sale el codigo para calcular la generacion, en cualquier caso devuelve generacion no identificada :/
+  // no me sale el codigo para calcular la generacion, en cualquier caso devuelve generacion no identificada :/
 
   calcularGeneracion() {
     const añoActual = new Date().getFullYear();
